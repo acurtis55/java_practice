@@ -1,6 +1,6 @@
 package com.dria;
 
-public class Main {
+public class TimeFormatter {
 
     public static void main(String[] args) {
         System.out.println(getDurationString(65, 45));
